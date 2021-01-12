@@ -1,0 +1,7 @@
+README.md
+setup.py
+simworld.egg-info/PKG-INFO
+simworld.egg-info/SOURCES.txt
+simworld.egg-info/dependency_links.txt
+simworld.egg-info/requires.txt
+simworld.egg-info/top_level.txt
